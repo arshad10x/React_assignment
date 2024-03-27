@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category": "Mens",
+    "image": "./assest/productCard/w1.png",
+    "name": "Silver High Neck Sweater",
+    "price": 12
+  },
+  {
+    "id": 2,
+    "category": "Women",
+    "image": "./assest/productCard/w2.png",
+    "name": "Yellow Casual Sweater",
+    "price": 26
+  },
+  {
+    "id": 3,
+    "category": "Kids",
+    "image": "./assest/productCard/w3.png",
+    "name": "Denim Blue Jeans",
+    "price": 19
+  },
+  {
+    "id": 4,
+    "category": "Kids",
+    "image": "./assest/productCard/w4.png",
+    "name": "Black White Sweater",
+    "price": 14
+  },
+  {
+    "id": 5,
+    "category": "Women",
+    "image": "./assest/productCard/w5.png",
+    "name": "Women's Fashion",
+    "price": 10
+  },
+  {
+    "id": 6,
+    "category": "Mens",
+    "image": "./assest/productCard/w6.png",
+    "name": "Royal Black Suit Pant",
+    "price": 11
+  },
+  {
+    "id": 7,
+    "category": "Mens",
+    "image": "./assest/productCard/w7.png",
+    "name": "Denim Classic Blue Jeans",
+    "price": 14
+  },
+  {
+    "id": 8,
+    "category": "Women",
+    "image": "./assest/productCard/w8.png",
+    "name": "Blue Trousers",
+    "price": 14
+  }
+]
